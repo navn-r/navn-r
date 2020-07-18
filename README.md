@@ -1,4 +1,4 @@
-<img src="./200.gif" height="66.666667" width="410.333333333"></img>
+<img src="https://github.com/navn-r/navn-r/blob/master/200.gif" height="66.666667" width="410.333333333"></img>
 
 ```JSON
 {
