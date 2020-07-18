@@ -1,5 +1,4 @@
-### Hi, I'm Navinn! :wave:
-[![Linkedin: navinn-ravindaran](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navinn-ravindaran/)](https://www.linkedin.com/in/navinn-ravindaran/)
+<img src="./200.gif" height="66.666667" width="410.333333333">
 ```JSON
 {
   name: "Navinn Ravindaran",
@@ -11,7 +10,6 @@
   addictedTo: [ "VSCode", "Markdown", "Coffee", "Learning" ]
 }
 ```
-
 ![haha funny](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1)  
 
 Made with :heart: 
