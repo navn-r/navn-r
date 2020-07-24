@@ -1,5 +1,12 @@
-<img src="https://github.com/navn-r/navn-r/blob/master/200.gif" height="66.666667" width="410.333333333"></img>
 
+```
+ _   _ _     ___             _   _             _             _    
+| | | (_)   |_ _|_ __ ___   | \ | | __ ___   _(_)_ __  _ __ | | 
+| |_| | |    | || '_ ` _ \  |  \| |/ _` \ \ / / | '_ \| '_ \| | 
+|  _  | |_   | || | | | | | | |\  | (_| |\ V /| | | | | | | |_| 
+|_| |_|_( ) |___|_| |_| |_| |_| \_|\__,_| \_/ |_|_| |_|_| |_(_) 
+        |/  
+```
 ```JSON
 {
   name: "Navinn Ravindaran",
@@ -15,3 +22,5 @@
 ![haha funny](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1)  
 
 Made with :heart: 
+
+                   
