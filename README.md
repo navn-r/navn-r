@@ -19,10 +19,14 @@
   code: [ "HTML", "CSS", "JS", "Java", "C", "Python" ]
 }
 ```
-<span style="display: flex; flex-direction: row;">
-<span>
-	This is a test, This better work
+<span style="display: flex; flex-direction: row; width: 600px;">
+<span style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr;">
+<span>This</span>
+<span>Better</span>
+<span>Work</span>
+<span>This is a test</span>
 </span>
-<img style="width: 400px;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1" alt="Haha funny"/>
+<img style="width: 400px; margin-left: 1rem;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1" alt="Haha funny"/>
 </span>
+
 
