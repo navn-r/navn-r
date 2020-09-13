@@ -10,7 +10,8 @@
   code: [ "HTML", "CSS", "JS", "Java", "C", "Python" ],
   workTerm: {
     workplace: "CaseWare International",
-    position: "Software Developer Co-op"
+    position: "Software Developer Co-op",
+    isCurrent: true
   },
   education: {
     school: "University of Toronto",
@@ -18,12 +19,10 @@
     graduation: 2023
   },
   hitMeUp: {
-    portfolio: "https://navn.me".
+    portfolio: "https://navn.me",
     linkedIn: "https://www.linkedin.com/in/navinn-ravindaran/",
-    buyMeACoffee: "https://www.buymeacoffee.com/navinn".
+    buyMeACoffee: "https://www.buymeacoffee.com/navinn"
   }
 }
 ```
 <img style="width: 400px; margin-left: 1rem;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1" alt="Haha funny"/>
-
-
