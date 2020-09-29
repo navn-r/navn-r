@@ -8,9 +8,9 @@
 {
   name: "Navinn Ravindaran",
   code: [ "HTML", "CSS", "JS", "Java", "C", "Python" ],
-  workTerm: {
+  co-op: {
     workplace: "CaseWare International",
-    position: "Software Developer Co-op",
+    position: "Software Developer",
     isCurrent: true
   },
   education: {
