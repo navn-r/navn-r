@@ -20,6 +20,7 @@
   },
   hitMeUp: {
     portfolio: "https://navn.me",
+    resume: "https://navn.me/resume",
     linkedIn: "https://www.linkedin.com/in/navinn-ravindaran/",
     buyMeACoffee: "https://www.buymeacoffee.com/navinn"
   }
