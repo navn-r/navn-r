@@ -7,7 +7,7 @@
         |/                                                        
 {
   name: "Navinn Ravindaran",
-  code: [ "HTML", "CSS", "JS", "Java", "C", "Python" ],
+  code: [ "HTML", "CSS", "TS/JS", "Java", "C", "Python" ],
   co-op: {
     workplace: "CaseWare International",
     position: "Software Developer",
@@ -26,4 +26,5 @@
   }
 }
 ```
-<img style="width: 400px; margin-left: 1rem;" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1" alt="Haha funny"/>
+<img align="left" src="thumb.png" height="300">
+<img height="300"  align="right" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2Ffa7139d84f37f25a3179f1614415fd5c%2Ftumblr_ngcxbk7Y1U1s8i9ydo1_400.gif&f=1&nofb=1" alt="Haha funny"/>
