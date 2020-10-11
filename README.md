@@ -1,8 +1,5 @@
 <img align="center" src="./assets/banner.png">
 
-
-
-
 ```TypeScript
 export class WhoAmI implements User {
   name: string = "Navinn Ravindaran";
@@ -30,8 +27,6 @@ export class WhoAmI implements User {
 </a>
 </div>
 <br />
-<br />
-
 
 -------
 
