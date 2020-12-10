@@ -1,18 +1,10 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+                @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&family=IBM+Plex+Sans:ital@1&family=IBM+Plex+Serif&display=swap');
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+					font-family: 'IBM Plex Sans';
 					display: flex;
 					flex-direction: column;
 					align-items: center;
@@ -20,32 +12,20 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					border-radius: 10px;
-					color: white;
+                    background-color: #f5d020;
+                    background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
+					border-radius: 3rem;
+					color: black;
 					text-align: center;
 				}
 				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-				}
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
+					font-size: 6rem;
 				}
 			</style>
 			<div class="container">
-                <h1>Hi, I'm Navinn</h1>
+                <h1>Hi, I'm <strong>Navinn</strong</h1>
 			</div>
 		</div>
+
 	</foreignObject>
 </svg>
