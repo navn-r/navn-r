@@ -35,3 +35,5 @@ export class WhoAmI implements User {
 <div align="center">
   <p>Made with ❤️</p>
 </div>
+
+<img align="center" width="800" height="400" src="./assets/header.svg">
