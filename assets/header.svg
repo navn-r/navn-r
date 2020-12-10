@@ -12,28 +12,22 @@
 </svg> -->
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-	<style>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&family=IBM+Plex+Sans:ital,wght@1,700&family=IBM+Plex+Serif&display=swap');
       h2 {
-          font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+          font-family: 'IBM Plex Sans Condensed';
           color: #FFFFFF;
           font-size: 2rem;
       }
 
       .content {
-          background-color: #000000;
+          background-color: black
       }
     </style>
     <div class="content">
       <h2>Hi, I'm Navinn</h2>
+    </div>
     </div>
 	</foreignObject>
 </svg>
