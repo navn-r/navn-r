@@ -1,4 +1,4 @@
-<!-- <img align="center" src="./assets/banner.png">
+<img align="center" src="./assets/banner.png">
 
 ```TypeScript
 export class WhoAmI implements User {
@@ -35,8 +35,3 @@ export class WhoAmI implements User {
 <div align="center">
   <p>Made with ❤️</p>
 </div>
--->
-
-<img align="center" width="800" height="400" src="./assets/header.svg">
-
-    
