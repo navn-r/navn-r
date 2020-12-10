@@ -37,6 +37,6 @@ export class WhoAmI implements User {
 </div>
 -->
 
-<!-- <img align="center" width="800" height="400" src="./assets/header.svg"> -->
+<img align="center" width="800" height="400" src="./assets/header.svg">
 
     
