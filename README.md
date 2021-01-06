@@ -23,7 +23,7 @@ export class WhoAmI implements User {
 <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=navn-r.github.io&theme=gotham">
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img align="center" src="./assets/Logo.svg" height="100">
+<img align="center" src="./assets/Logo-spin.svg" height="100">
 </a>
 <a href="https://navn-r.github.io/resume" target="_blank">
 <img  align="right"  width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=resume&theme=gotham">
