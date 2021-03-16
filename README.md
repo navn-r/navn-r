@@ -1,4 +1,6 @@
-<img align="center" src="./assets/name.svg">
+<h2 align="center">
+  <img align="center" src="./assets/name.svg">
+</h2>
 
 ```TypeScript
 export class WhoAmI implements User {
