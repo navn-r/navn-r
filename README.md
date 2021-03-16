@@ -1,7 +1,7 @@
-<img align="center" src="./assets/hi.svg"> 
+<!-- <img align="center" src="./assets/hi.svg"> 
 <h2 align="center">
   <img align="center" src="./assets/name.svg">
-</h2>
+</h2> -->
 <h2 align="center">
   <img align="center" src="./assets/info.svg">
 </h2>
@@ -25,7 +25,7 @@ export const navn: WhoAmI<User> = {
   },
 }
 ```  -->
-<div align="center">
+<!-- <div align="center">
 <a href="https://navn-r.github.io/" target="_blank">
 <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=navn-r.github.io&theme=gotham">
 </a>
@@ -42,4 +42,4 @@ export const navn: WhoAmI<User> = {
 <div align="center">
   <p>Made with ❤️</p>
 </div>
-
+ -->
