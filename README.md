@@ -33,11 +33,4 @@ export const navn: WhoAmI<User> = {
 <a href="https://github.com/navn-r/resume" target="_blank">
 <img  align="right"  width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=resume&theme=gotham">
 </a>
-</div>
-<br />
-
--------
-<div align="center">
-  <p>Made with ❤️</p>
-</div>
- -->
+</div>-->
