@@ -2,7 +2,9 @@
 <h2 align="center">
   <img align="center" src="./assets/name.svg">
 </h2> -->
-![https://navn.me](./assets/info.svg)
+<a href="https://navn.me/" target="_blank">
+  <img src="./assets/info.svg" />
+</a>
 <!-- 
 ```TypeScript
 export const navn: WhoAmI<User> = {
