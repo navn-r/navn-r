@@ -1,4 +1,4 @@
-<a href="https://navn.me/" target="_blank">
+<a href="https://navn.me/" width="400" target="_blank">
   <img src="./assets/info.svg" />
 </a>
 <!-- 
