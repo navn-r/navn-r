@@ -1,8 +1,8 @@
-<a href="https://navn.me/" target="_blank">
-  <h5 align="center">
+<h5 align="center">
+  <a href="https://navn.me/" target="_blank">
     <img width="700" src="./assets/info.svg" />
-  </h5>
-</a>
+  </a>
+</h5>
 <!-- 
 ```TypeScript
 /*
