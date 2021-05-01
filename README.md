@@ -1,5 +1,5 @@
 <a href="https://navn.me/" target="_blank">
-  <img width="400" src="./assets/info.svg" />
+  <img width="700" src="./assets/info.svg" />
 </a>
 <!-- 
 ```TypeScript
