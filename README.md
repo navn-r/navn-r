@@ -37,8 +37,8 @@
 
 export const navn: WhoAmI<User> = {
   name: 'Navinn Ravindaran',
-  school: '@uoft CS + Stats 2023',
-  work: 'Front End @caseware + incoming Full Stack @halo',
+  school: 'CS + Stats 2023 @UToronto',
+  work: 'Full Stack Developer @Halo + Incoming @MLH',
   quote: async () => {
     return Promise.resolve(
       'Why waste time say lot word when few word do trick.'
