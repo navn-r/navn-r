@@ -47,11 +47,12 @@ export const navn: WhoAmI<User> = {
 }
 ```
  -->
- <h5 align="center"><img src="./assets/name.png" /></h5>
+ <div align="center"><img width="700" align="center" src="./assets/name.png" /></div>
+<br />
 <div align="center">
 <a href="https://navn.me" target="_blank">
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=navn-r&theme=merko">
-</a>
+  </a>
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="./assets/Logo.svg" height="115">
 </a> -->
