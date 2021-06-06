@@ -1,10 +1,10 @@
-<h5 align="center">
+<!-- <h5 align="center">
   <a href="https://navn.me/" target="_blank">
     <img width="700" src="./assets/info.svg" />
   </a>
-</h5>
-<!-- 
-```TypeScript
+</h5> -->
+<!--
+```
 /*
 
                             .ohhs+:`                    
@@ -34,7 +34,7 @@
                           `/sdMMMMmo.                   
                                .:+oyyo.                    
                                                               */
-
+ 
 export const navn: WhoAmI<User> = {
   name: 'Navinn Ravindaran',
   school: 'CS + Stats 2023 @UToronto',
@@ -46,15 +46,15 @@ export const navn: WhoAmI<User> = {
   },
 }
 ```
-
+ -->
 <div align="center">
-<a href="https://navn-r.github.io/" target="_blank">
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=navn-r.github.io&theme=gotham">
+<a href="https://navn.me" target="_blank">
+  <img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=navn-r&theme=merko">
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img align="center" src="./assets/Logo-spin.svg" height="100">
+  <img src="./assets/Logo.svg" height="125">
 </a>
-<a href="https://github.com/navn-r/resume" target="_blank">
-<img  align="right"  width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=navn-r&repo=resume&theme=gotham">
+<a href="https://navn.me" target="_blank">
+  <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=navn&theme=merko&langs_count=5">
 </a>
-</div> -->
+</div>
