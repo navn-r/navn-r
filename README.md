@@ -52,7 +52,7 @@ export const navn: WhoAmI<User> = {
   <img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=navn-r&theme=merko">
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="./assets/Logo.svg" height="125">
+  <img src="./assets/Logo.svg" height="100">
 </a>
 <a href="https://navn.me" target="_blank">
   <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=navn&theme=merko&langs_count=5">
