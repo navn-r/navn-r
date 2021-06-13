@@ -1,4 +1,4 @@
-<div align="center"><img align="center" width="700" src="./assets/name.svg" /></div>
+<div align="center"><img align="center" width="700" src="https://raw.githubusercontent.com/navn-r/navn-r/master/assets/name.svg" /></div>
 <br />
 <div align="center">
 <a href="https://navn.me" target="_blank">
