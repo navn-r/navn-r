@@ -36,6 +36,7 @@
         h1 {
           text-align: center;
           font-size: 5rem;
+          transform: scale(1.2);
         }
 
         h1 em {
