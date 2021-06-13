@@ -1,9 +1,32 @@
-<svg fill="none" viewBox="0 0 700 700" width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @import url('https://navn.me/assets/index.57d550f8.css');
+
+        * {
+          cursor: initial !important;
+        }
+
         .container {
+          width: 800px;
+          height: 200px;
+          background-color: #131516;
+          color: white;
+          margin: 0.5rem;
+          border-radius: 5px;
+          display: grid;
+          place-items: center;
+        }
+
+        h1 {
+          text-align: center;
           font-size: 5rem;
+          margin-top: 2.5rem;
+        }
+
+        h1 em {
+          color: #ff6347;
         }
       </style>
       <div class="container">
@@ -12,3 +35,4 @@
     </div>
   </foreignObject>
 </svg>
+
