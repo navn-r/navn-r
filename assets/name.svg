@@ -13,8 +13,6 @@
           height: 200px;
           background-color: #131516;
           color: white;
-          margin: 0.5rem;
-          border-radius: 5px;
           display: grid;
           place-items: center;
         }
