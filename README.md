@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://navn.me" target="__blank"><img align="center" width="700" src="https://raw.githubusercontent.com/navn-r/navn-r/master/assets/name.svg" /></a>
+  <a href="https://navn.me" target="__blank"><img align="center" width="715" src="https://raw.githubusercontent.com/navn-r/navn-r/master/assets/name.svg" /></a>
 </div>
 <br />
 <div align="center">
