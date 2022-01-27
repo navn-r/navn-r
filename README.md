@@ -1,4 +1,4 @@
-<a href="https://navn.me" align="center" target="__blank"><img align="center" src="assets/new-banner.svg" /></a>
+<div align="center"><img src="assets/new-banner.svg" /></div>
 
 <!-- <div align="center">
   <a href="https://navn.me/" target="__blank"><img align="center" src="assets/Logo-spin.svg" width="100" height="100"></a>
