@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://navn.me" target="__blank"><img align="center" src="https://raw.githubusercontent.com/navn-r/navn-r/master/assets/new-banner.svg" /></a>
 </div>
-<br />
 <!-- <div align="center">
   <a href="https://navn.me/" target="__blank"><img align="center" src="assets/Logo-spin.svg" width="100" height="100"></a>
     &nbsp;
