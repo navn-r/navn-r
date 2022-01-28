@@ -50,6 +50,7 @@
           grid-template-rows: max-content auto max-content;
           gap: 2rem;
           font-family: 'SF Pro Display';
+          border-radius: 6px;
         }
 
         .header {
@@ -101,6 +102,7 @@
 
         p.info {
           line-height: 1.5;
+          max-width: 71ch;
         }
 
 
@@ -161,7 +163,7 @@
           Computer Science now in my third year at the University of Toronto, graduating in 2023.
           <br />
           <br />
-          Right now, I'm working at RBC as a Full Stack Developer, and a Pod Leader with the MLH Fellowship. I enjoy
+          Right now, I'm working at RBC as a Full Stack Developer, and a Pod Leader running the MLH Fellowship. I enjoy
           learning new tech, but more importantly building cool things with even cooler people.
           <br />
           <br />

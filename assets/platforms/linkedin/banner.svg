@@ -1,0 +1,97 @@
+<svg fill="none" viewBox="0 0 1400 350" width="1400" height="350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+  </defs>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        .container {
+          width: 1400px;
+          height: 350px;
+          color: black;
+          display: grid;
+          place-items: center;
+          font-family: 'Apple Garamond';
+          font-size: 3rem;
+          background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSAiaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMSAxIDYgNCI+PGltYWdlIGZpbHRlcj0idXJsKCNiKSIgd2lkdGg9IjgiIGhlaWdodD0iNiIgeGxpbms6aHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBZ0FBQUFHQ0FNQUFBREoyeS9KQUFBQWlsQk1WRVdWc0YyOGhqbG1hTEtpazZ0c2NLTnFaS09acjUxZlo1UnhjNUdqdUk5V1RZSm5hSUJzZlhCVmIyNklwV0tNbEZkbGdsVm5kbFYxaGxSbmExUnVlMUU1U2xIL3EwdUpjMHJpbUVoeGRrQlhiai9MaER0YWh6cWpnanBjY3pwOW5UbnZtemxaV1ROWVpTODVhaWxtVUNoTFhTWXBkU0lDT1NFWUlpRk1hQjR5VVJBbUhBcE9TZ0FWRHdCK0pBSXJBQUFBTG5SU1RsUCsvdjcrL3Y3Ky92NysvdjcrL3Y3Ky92NysvdjcrL3Y3Ky92NysvdjcrL3Y3Ky92NysvdjcrL3Y3Ky92NytpTmRPT3dBQUFEMUpSRUZVQ05jRndZTUJBREVBQkxEcjI3WlpkLy8xbW9ESjBJdFNwOGUzMUg0UUp4eVR5TndDMm1BbmJYN2lWcmlHbVI1TitZQ3M0L1pXM1c4QlpXVUVEWE9nN09zQUFBQUFTVVZPUks1Q1lJST0iLz48ZmlsdGVyIGlkPSJiIj48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIuNSIgLz48L2ZpbHRlcj48L3N2Zz4=");
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+
+        
+
+        .header {
+          width: max-content;
+          display: grid;
+          grid-template-columns: repeat(3, max-content);
+          place-items: center;
+          gap: 0.5rem;
+        }
+
+        .icon {
+          width: 70px;
+          height: 70px;
+        }
+
+        .logo {
+          width: 140px;
+          height: 140px;
+        }
+
+        .eyes {
+          transform: scale(1.3) translate(-600px, -600px);
+        }
+
+        h1 {
+          text-align: center;
+        }
+      </style>
+      <div class="container">
+        <div class="header">
+          <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="30px" class="logo" height="30px"
+            viewBox="0 0 487.000000 509.000000" preserveAspectRatio="xMidYMid meet">
+            <g transform="translate(0.000000,509.000000) scale(0.100000,-0.100000)" fill="currentcolor" stroke="none">
+              <path d="M2090 5066 c0 -2 73 -60 163 -127 205 -156 371 -319 415 -408 43 -87
+45 -170 5 -207 -38 -35 -105 -52 -298 -75 -204 -24 -324 -42 -453 -70 -282
+-61 -603 -208 -838 -385 -521 -392 -853 -990 -949 -1710 -16 -119 -20 -308 -7
+-302 5 2 43 44 86 95 71 85 163 165 227 199 24 12 30 25 44 91 41 194 70 306
+106 408 215 627 694 1076 1279 1201 121 26 430 26 550 0 241 -52 462 -175 625
+-347 122 -129 198 -261 252 -439 25 -81 27 -98 31 -367 l4 -283 45 -39 c24
+-22 68 -47 96 -57 29 -9 84 -31 124 -50 97 -46 117 -78 111 -177 -15 -206
+-177 -416 -413 -534 -158 -79 -315 -115 -505 -115 -443 0 -835 234 -1024 613
+-56 111 -85 204 -131 418 -19 90 -41 174 -50 187 -69 106 -258 -86 -351 -358
+-36 -106 -54 -242 -54 -413 0 -172 18 -305 60 -455 68 -239 193 -502 313 -659
+110 -144 554 -398 883 -506 212 -70 571 -141 674 -133 l45 3 -160 119 c-273
+204 -405 353 -405 459 0 99 59 132 385 216 127 33 278 76 337 96 377 127 662
+317 930 619 259 292 424 668 460 1047 27 292 -39 523 -198 689 -90 94 -169
+140 -240 140 -66 0 -96 -20 -190 -129 -78 -90 -106 -107 -119 -73 -3 9 -15 91
+-26 181 -36 306 -90 494 -216 751 -69 142 -82 161 -149 227 -265 258 -706 492
+-1127 599 -160 40 -347 73 -347 60z" />
+              <path class="eyes" d="M2180 2867 c-128 -85 -73 -297 77 -297 96 0 163 60 171 153 4 60 -20
+106 -77 144 -47 32 -125 32 -171 0z" />
+              <path class="eyes" d="M2700 2828 c-50 -35 -72 -82 -68 -149 7 -95 66 -149 165 -149 95 0
+159 74 151 175 -8 92 -68 145 -166 145 -34 0 -59 -7 -82 -22z" />
+            </g>
+          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="icon">
+            <path fill="currentColor"
+              d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"
+              class="" style="--darkreader-inline-fill: currentColor;" data-darkreader-inline-fill=""></path>
+          </svg>
+          <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" role="img"
+            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
+            class="svg-inline--fa fa-linkedin logo fa-w-14 fa-2x">
+            <path fill="currentColor"
+              d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"
+              class="" style="--darkreader-inline-fill: currentColor;" data-darkreader-inline-fill=""></path>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
