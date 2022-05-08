@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: initial !important;
+}
+
+.wrapper {
+  width: 800px;
+  height: 425px;
+  background-color: #0d1117;
+  color: #c9d1d9;
+  padding: 2rem;
+  border-radius: 6px;
+  font-family: 'SF Pro Display' !important;
+}
+
+.fa-heart,
+.fa-canadian-maple-leaf {
+  color: #e34c26;
+  filter: none;
+  transform: translateY(3px);
+}

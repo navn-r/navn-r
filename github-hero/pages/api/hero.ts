@@ -8,11 +8,10 @@ import Card from '../../components/Card';
 
 const cwd = process.cwd();
 
-function _renderCard() {
-  // Temporary
-  const fonts = readFileSync(`${cwd}/assets/fonts.css`).toString('utf-8');
-  const globals = readFileSync(`${cwd}/assets/globals.css`).toString('utf-8');
+const fonts = readFileSync(`${cwd}/styles/fonts.css`).toString('utf-8');
+const globals = readFileSync(`${cwd}/styles/globals.css`).toString('utf-8');
 
+function _renderCard() {
   const card = React.createElement(Card, { fonts, globals });
   const html = ReactDOMServer.renderToStaticMarkup(card);
 
