@@ -54,7 +54,7 @@ const styles: Record<string, CSSProperties> = {
 };
 
 const Footer: React.FC<{ quote: number }> = ({ quote }) => {
-  const { author, content } = quotes[3];
+  const { author, content } = quotes[quote];
 
   return (
     <div style={styles.div}>
