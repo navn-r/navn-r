@@ -22,7 +22,22 @@ const quotes: Quote[] = [
   },
   {
     author: 'Andy Dwyer',
-    content: 'I tried to make ramen in the coffee pot and I broke everything.',
+    content: 'Leslie, I typed your symptoms into the thing up here, and it says you could have network connectivity problems.',
+  },
+  {
+    author: 'Tom Haverford',
+    content:
+      'Every song I download has to pass a series of rigorous tests to answer one simple question: is it a banger?',
+  },
+  {
+    author: 'Ron Swanson',
+    content:
+      "There has never been a sadness that can't been cured by breakfast food.",
+  },
+  {
+    author: 'Leslie Knope',
+    content:
+      "There's nothing we can't do if we work hard, never sleep, and shirk all other responsibilities our lives.",
   },
 ];
 
@@ -30,7 +45,7 @@ const styles: Record<string, CSSProperties> = {
   div: {
     marginTop: '2rem',
     borderTop: '0.5px solid rgba(201, 209, 217, 0.5)',
-    maxWidth: '73ch',
+    maxWidth: '74ch',
   },
   p: {
     lineHeight: '1.5',
@@ -39,7 +54,7 @@ const styles: Record<string, CSSProperties> = {
 };
 
 const Footer: React.FC<{ quote: number }> = ({ quote }) => {
-  const { author, content } = quotes[quote];
+  const { author, content } = quotes[3];
 
   return (
     <div style={styles.div}>

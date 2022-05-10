@@ -46,7 +46,7 @@ const styles: Record<string, CSSProperties> = {
   p: {
     lineHeight: '1.5',
     padding: '0.5rem 0',
-    maxWidth: '73ch',
+    maxWidth: '74ch',
     position: 'relative',
     zIndex: '1',
   },

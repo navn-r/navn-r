@@ -28,7 +28,7 @@ export async function getServerSideProps() {
   return {
     props: {
       time: new Date().toISOString(),
-      quote: Math.floor(Math.random() * 4),
+      quote: Math.floor(Math.random() * 7),
     },
   };
 }

@@ -13,7 +13,7 @@ const globals = readFileSync(`${cwd}/styles/globals.css`).toString('utf-8');
 
 function _renderCard() {
   const time = new Date().toISOString();
-  const quote = Math.floor(Math.random() * 4);
+  const quote = Math.floor(Math.random() * 7);
   const card = React.createElement(Card, { fonts, globals, time, quote });
   const html = ReactDOMServer.renderToStaticMarkup(card);
 
