@@ -12,7 +12,9 @@ const fonts = readFileSync(`${cwd}/styles/fonts.css`).toString('utf-8');
 const globals = readFileSync(`${cwd}/styles/globals.css`).toString('utf-8');
 
 function _renderCard() {
-  const card = React.createElement(Card, { fonts, globals });
+  const time = new Date().toISOString();
+  const quote = Math.floor(Math.random() * 4);
+  const card = React.createElement(Card, { fonts, globals, time, quote });
   const html = ReactDOMServer.renderToStaticMarkup(card);
 
   return html;

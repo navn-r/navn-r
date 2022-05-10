@@ -15,7 +15,9 @@ const Wrapper: React.FC<{ xmlns: string; children: React.ReactNode }> = ({
 const Card: React.FC<{
   fonts: string;
   globals: string;
-}> = ({ fonts, globals }) => {
+  time: string;
+  quote: number;
+}> = ({ fonts, globals, time, quote }) => {
   return (
     <svg
       fill='none'
@@ -31,8 +33,8 @@ const Card: React.FC<{
       <foreignObject width='100%' height='100%'>
         <Wrapper xmlns='http://www.w3.org/1999/xhtml'>
           <Header />
-          <Body />
-          <Footer />
+          <Body time={time} />
+          <Footer quote={quote} />
         </Wrapper>
       </foreignObject>
     </svg>

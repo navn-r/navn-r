@@ -38,13 +38,13 @@ const styles: Record<string, CSSProperties> = {
   },
 };
 
-const Footer: React.FC = () => {
-  const { author, content } = quotes[Math.floor(Math.random() * 4)];
+const Footer: React.FC<{ quote: number }> = ({ quote }) => {
+  const { author, content } = quotes[quote];
 
   return (
     <div style={styles.div}>
-      <p style={{...styles.p, textAlign: 'center'}}>"{content}"</p>
-      <p style={{...styles.p, float: 'right'}}>- {author}</p>
+      <p style={{ ...styles.p, textAlign: 'center' }}>"{content}"</p>
+      <p style={{ ...styles.p, float: 'right' }}>- {author}</p>
     </div>
   );
 };
