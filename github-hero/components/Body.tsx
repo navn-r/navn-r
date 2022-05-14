@@ -14,8 +14,14 @@ const Heart = () => (
     className='svg-inline--fa fa-heart fa-w-16 fa-2x icon'
     style={{ animation: 'icon-orange 3000ms ease-in-out infinite' }}
   >
+    <defs>
+      <linearGradient id='icon-gradient' gradientTransform='rotate(69deg)'>
+        <stop offset='50%' stopColor='rgba(238,9,121,1)' />
+        <stop offset='85%' stopColor='rgba(255,106,0,1)' />
+      </linearGradient>
+    </defs>
     <path
-      fill='currentColor'
+      fill='url(#icon-gradient)'
       d='M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z'
     ></path>
   </svg>
@@ -57,7 +63,11 @@ const styles: Record<string, CSSProperties> = {
     float: 'right',
   },
   strong: {
-    borderBottom: '0.5px solid',
+    backgroundImage:
+      'linear-gradient( 109.6deg,  rgba(243,136,136,1) 11.2%, rgba(196,157,247,1) 75.1% )',
+    backgroundSize: '50px 1px',
+    backgroundRepeat: 'no-repeat',
+    backgroundPositionY: 'bottom',
   },
 };
 
