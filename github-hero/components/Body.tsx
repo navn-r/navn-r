@@ -78,7 +78,7 @@ const Body: React.FC<{ time: string }> = ({ time }) => {
         Hello, world! My name is <strong style={styles.strong}>Navinn</strong>.
         I'm a Software Engineer and an Honours B.Sc. candidate for Computer
         Science, now in my third year at the University of Toronto, graduating
-        in 2023.
+        in 2024.
       </p>
 
       <p style={styles.p}>
