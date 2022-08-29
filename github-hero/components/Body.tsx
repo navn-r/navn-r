@@ -83,7 +83,7 @@ const Body: React.FC<{ time: string }> = ({ time }) => {
 
       <p style={styles.p}>
         Right now, I'm working as a Software Engineer Co-op at HubSpot, and as a 
-        Pod Leader running the MLH Fellowship for Fall '22 I enjoy learning new
+        Pod Leader running the MLH Fellowship for Fall '22. I enjoy learning new
         tech, but more importantly building cool things with even cooler people.
       </p>
 
