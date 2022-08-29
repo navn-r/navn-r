@@ -77,13 +77,13 @@ const Body: React.FC<{ time: string }> = ({ time }) => {
       <p style={styles.p}>
         Hello, world! My name is <strong style={styles.strong}>Navinn</strong>.
         I'm a Software Engineer and an Honours B.Sc. candidate for Computer
-        Science, now in my third year at the University of Toronto, graduating
+        Science, now in my fourth year at the University of Toronto, graduating
         in 2024.
       </p>
 
       <p style={styles.p}>
-        Right now, I'm working as a Pod Leader running the MLH Fellowship, and
-        an Undergraduate Teaching Assistant for Summer '22. I enjoy learning new
+        Right now, I'm working as a Software Engineer Co-op at HubSpot, and as a 
+        Pod Leader running the MLH Fellowship for Fall '22 I enjoy learning new
         tech, but more importantly building cool things with even cooler people.
       </p>
 
