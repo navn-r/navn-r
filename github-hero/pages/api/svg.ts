@@ -11,17 +11,18 @@ const cwd = process.cwd();
 const fonts = readFileSync(`${cwd}/styles/fonts.css`).toString('utf-8');
 const globals = readFileSync(`${cwd}/styles/globals.css`).toString('utf-8');
 
-function _renderCard() {
-  const time = new Date().toISOString();
-  const quote = Math.floor(Math.random() * 7);
-  const card = React.createElement(Card, { fonts, globals, time, quote });
-  const html = ReactDOMServer.renderToStaticMarkup(card);
-
-  return html;
-}
-
 export default function handler(_: NextApiRequest, res: NextApiResponse) {
   res.writeHead(200, { 'Content-Type': 'image/svg+xml' });
-  res.write(_renderCard());
+  res.write(
+    ReactDOMServer.renderToStaticMarkup(
+      React.createElement(Card, {
+        fonts,
+        globals,
+        time: new Date().toISOString(),
+        quote: Math.floor(Math.random() * 7),
+        gradient: Math.floor(Math.random() * 7),
+      })
+    )
+  );
   res.end();
 }

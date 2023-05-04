@@ -17,7 +17,8 @@ const Card: React.FC<{
   globals: string;
   time: string;
   quote: number;
-}> = ({ fonts, globals, time, quote }) => {
+  gradient: number;
+}> = ({ fonts, globals, time, quote, gradient }) => {
   return (
     <svg
       fill='none'
@@ -32,7 +33,7 @@ const Card: React.FC<{
       </defs>
       <foreignObject width='100%' height='100%'>
         <Wrapper xmlns='http://www.w3.org/1999/xhtml'>
-          <Header />
+          <Header gradient={gradient} />
           <Body time={time} />
           <Footer quote={quote} />
         </Wrapper>
