@@ -20,7 +20,7 @@ export default function handler(_: NextApiRequest, res: NextApiResponse) {
         globals,
         time: new Date().toISOString(),
         quote: Math.floor(Math.random() * 7),
-        gradient: Math.floor(Math.random() * 7),
+        title: Math.floor(Math.random() * 7),
       })
     )
   );

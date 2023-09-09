@@ -4,10 +4,10 @@ import Body from '../components/Body';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 
-const Home: NextPage<{ time: string; quote: number; gradient: number }> = ({
+const Home: NextPage<{ time: string; quote: number; title: number }> = ({
   time,
   quote,
-  gradient,
+  title,
 }) => {
   return (
     <div style={{ padding: '1rem' }}>
@@ -20,7 +20,7 @@ const Home: NextPage<{ time: string; quote: number; gradient: number }> = ({
         <link rel='icon' href='https://navn.me/favicon.ico' />
       </Head>
       <div className='wrapper'>
-        <Header gradient={gradient} />
+        <Header title={title} />
         <Body time={time} />
         <Footer quote={quote} />
       </div>
@@ -33,7 +33,7 @@ export async function getServerSideProps() {
     props: {
       time: new Date().toISOString(),
       quote: Math.floor(Math.random() * 7),
-      gradient: Math.floor(Math.random() * 7),
+      title: Math.floor(Math.random() * 7),
     },
   };
 }

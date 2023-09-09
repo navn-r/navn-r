@@ -63,17 +63,13 @@ const styles: Record<string, CSSProperties> = {
     float: 'right',
   },
   span: {
-    backgroundImage:
-      'linear-gradient( 109.6deg,  rgba(243,136,136,1) 11.2%, rgba(196,157,247,1) 75.1% )',
+    backgroundImage: 'linear-gradient( 109.6deg, #c45454 11.2%, #f90 75.1% )',
     backgroundSize: '50px 1px',
     backgroundRepeat: 'no-repeat',
     backgroundPositionY: 'bottom',
   },
   strong: {
-    backgroundImage:
-      'linear-gradient( 109.6deg,  rgba(243,136,136,1) 11.2%, rgba(196,157,247,1) 75.1% )',
-    backgroundClip: 'text',
-    color: 'transparent',
+    color: 'white',
     animation: 'gradient 3000ms ease-in-out infinite',
     backgroundSize: '150%',
   },
@@ -83,19 +79,20 @@ const Body: React.FC<{ time: string }> = ({ time }) => {
   return (
     <div>
       <p style={styles.p}>
-        Hello, world! My name is{' '}
+        My name is{' '}
         <span style={styles.span}>
           <strong style={styles.strong}>Navinn</strong>
-        </span>
-        . I'm a Software Engineer and an Honours B.Sc. candidate for Computer
-        Science, now in my fourth year at the University of Toronto, graduating
-        in 2024.
+        </span>{' '}
+        (/nævɪn/). I'm a Software Engineer and an Honours B.Sc. candidate for
+        Computer Science, now in my final year at the University of Toronto,
+        graduating in 2024.
       </p>
 
       <p style={styles.p}>
-        Right now, I'm working as a Teaching Assistant, and actively seeking
-        internships for 2023. I enjoy learning new tech, but more importantly
-        building cool things with even cooler people.
+        Right now, I'm working as a SWE Intern at American Express and a
+        Teaching Assistant, and actively seeking new-grad positions for 2024. I
+        enjoy learning new tech, but more importantly building cool things with
+        even cooler people.
       </p>
 
       <p style={styles.p}>
