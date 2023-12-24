@@ -85,14 +85,13 @@ const Body: React.FC<{ time: string }> = ({ time }) => {
         </span>{' '}
         (/nævɪn/). I'm a Software Engineer and an Honours B.Sc. candidate for
         Computer Science, now in my final year at the University of Toronto,
-        graduating in 2024.
+        graduating in June 2024.
       </p>
 
       <p style={styles.p}>
-        Right now, I'm working as a SWE Intern at American Express and a
-        Teaching Assistant, and actively seeking new-grad positions for 2024. I
-        enjoy learning new tech, but more importantly building cool things with
-        even cooler people.
+        Right now, I'm working as a Teaching Assistant and actively seeking
+        new-grad positions. I enjoy learning new tech, but more importantly
+        building cool things with even cooler people.
       </p>
 
       <p style={styles.p}>
